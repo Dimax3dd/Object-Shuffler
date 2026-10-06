@@ -1,3 +1,4 @@
+<img width="382" height="635" alt="Screenshot_25" src="https://github.com/user-attachments/assets/759fd674-d96c-48f4-b0a1-52f2bc93fe8a" />
 # Object Shuffler
 
 Blender add-on for quickly selecting, replacing, and randomizing scene objects.
